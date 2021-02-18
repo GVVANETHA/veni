@@ -17,12 +17,6 @@
 # ![logo](https://secureservercdn.net/192.169.221.188/d82.4b6.myftpupload.com/wp-content/uploads/2018/09/o-FRIENDSHIP-facebook-620x330.jpg)
 
 **code**
-...
-#include <stdio.h>
-void main(){
-printf("hello gayathri")
-}
-...
 
 ### ~~good girl~~
 **emoji**
